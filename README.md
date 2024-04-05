@@ -11,6 +11,13 @@
 * Produce some visualisations
 * Answer a business question and provide conclusions and key takeaways
 
+## Tools used
+* Databrick community edition
+* pyspark
+
+## Kanban board
+[Kanban-board](https://nawazm621.atlassian.net/jira/software/projects/SPAR/boards/1?atlOrigin=eyJpIjoiYmI4MDNkYTVmZGFlNDNlZTg4OTBmMjQ5YmE2OTllNTgiLCJwIjoiaiJ9)
+
 ## How to run this project
 * Clone this repository onto your local machine
 * Create a local cluster using the default settings inside databricks community edition
